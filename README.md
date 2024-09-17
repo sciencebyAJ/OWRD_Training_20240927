@@ -5,7 +5,7 @@ This repository contains links to training materials developed for OWRD by OpenE
 
 **Shapefiles/**
 
-* **jenseWS**: paired watersheds that are used to investigate the impact of juniper removal on hydrology. jensenWS is the control 
+* **jensenWS**: paired watersheds that are used to investigate the impact of juniper removal on hydrology. jensenWS is the control 
 * **maysWS**: paired watersheds that are used to investigate the impact of juniper removal on hydrology. maysWS had juniper removed in 2005-2006
 * **tumalo_irrigation_district**: shapefile that is irrigated by the Tumalo diversion. The district piped the diversion to reduce conveyance losses before the ~2014 irrigation season
 * **harney_basin**: shapefile of Harney Basin
