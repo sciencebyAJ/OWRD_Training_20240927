@@ -12,7 +12,7 @@ This repository contains links to training materials developed for OWRD by OpenE
 
 **Collab Scripts/**
 
-* Example 1: Compare OpenET data to flowmeters
-* Example 2: Tumalo diversion
-* Example 3: Application for field services and watermasters in a regulatory environment - identify irrigated fields across region. 
-* Example 4: Impact of Juniper removal
+* Example_1: Compare OpenET data to flowmeters
+* Example_2: Tumalo diversion
+* Example_3: Application for field services and watermasters in a regulatory environment - identify irrigated fields across region. 
+* Example_4: Impact of Juniper removal
